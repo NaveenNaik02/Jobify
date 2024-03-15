@@ -16,7 +16,7 @@ Install my-project with npm
 Create app in https://dashboard.clerk.com
 ```
 
-Create .env.local file add these secrets and add these secrets
+Create .env.local file add these secrets
 
 ```bash
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY, CLERK_SECRET_KEY
