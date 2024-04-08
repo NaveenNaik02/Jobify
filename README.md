@@ -4,7 +4,7 @@ Next.js app designed to help users manage and track their job interviews with di
 
 ## Installation
 
-Install my-project with npm
+Install project with npm
 
 ```bash
   npm install
